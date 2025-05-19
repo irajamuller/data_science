@@ -1,0 +1,302 @@
+[
+	{
+		"Nome": "Isabela",
+		"Idade": 24,
+		"Estado": "RS",
+		"Glicose": 98
+	},
+	{
+		"Nome": "Carlos",
+		"Idade": 23,
+		"Estado": "BA",
+		"Glicose": 145
+	},
+	{
+		"Nome": "Ana",
+		"Idade": 42,
+		"Estado": "RJ",
+		"Glicose": 181
+	},
+	{
+		"Nome": "Alexandre",
+		"Idade": 24,
+		"Estado": "MG",
+		"Glicose": 110
+	},
+	{
+		"Nome": "Bruna",
+		"Idade": 40,
+		"Estado": "RS",
+		"Glicose": 186
+	},
+	{
+		"Nome": "Marcos",
+		"Idade": 72,
+		"Estado": "MG",
+		"Glicose": 70
+	},
+	{
+		"Nome": "Marcos",
+		"Idade": 40,
+		"Estado": "PE",
+		"Glicose": 137
+	},
+	{
+		"Nome": "Paula",
+		"Idade": 56,
+		"Estado": "SC",
+		"Glicose": 198
+	},
+	{
+		"Nome": "Alexandre",
+		"Idade": 34,
+		"Estado": "BA",
+		"Glicose": 115
+	},
+	{
+		"Nome": "Carlos",
+		"Idade": 69,
+		"Estado": "RS",
+		"Glicose": 199
+	},
+	{
+		"Nome": "Felipe",
+		"Idade": 20,
+		"Estado": "PR",
+		"Glicose": 97
+	},
+	{
+		"Nome": "Alexandre",
+		"Idade": 64,
+		"Estado": "SP",
+		"Glicose": 230
+	},
+	{
+		"Nome": "Beatriz",
+		"Idade": 47,
+		"Estado": "RS",
+		"Glicose": 146
+	},
+	{
+		"Nome": "Gustavo",
+		"Idade": 52,
+		"Estado": "SP",
+		"Glicose": 233
+	},
+	{
+		"Nome": "Maria",
+		"Idade": 25,
+		"Estado": "PR",
+		"Glicose": 199
+	},
+	{
+		"Nome": "Larissa",
+		"Idade": 80,
+		"Estado": "SC",
+		"Glicose": 225
+	},
+	{
+		"Nome": "Pedro",
+		"Idade": 77,
+		"Estado": "BA",
+		"Glicose": 120
+	},
+	{
+		"Nome": "João",
+		"Idade": 42,
+		"Estado": "RJ",
+		"Glicose": 109
+	},
+	{
+		"Nome": "Ana",
+		"Idade": 23,
+		"Estado": "RS",
+		"Glicose": 165
+	},
+	{
+		"Nome": "Maria",
+		"Idade": 53,
+		"Estado": "PR",
+		"Glicose": 111
+	},
+	{
+		"Nome": "Fernanda",
+		"Idade": 36,
+		"Estado": "RS",
+		"Glicose": 208
+	},
+	{
+		"Nome": "Marcos",
+		"Idade": 71,
+		"Estado": "PE",
+		"Glicose": 205
+	},
+	{
+		"Nome": "Renata",
+		"Idade": 58,
+		"Estado": "SC",
+		"Glicose": 70
+	},
+	{
+		"Nome": "Tiago",
+		"Idade": 57,
+		"Estado": "PE",
+		"Glicose": 223
+	},
+	{
+		"Nome": "Ana",
+		"Idade": 74,
+		"Estado": "MG",
+		"Glicose": 152
+	},
+	{
+		"Nome": "Gustavo",
+		"Idade": 73,
+		"Estado": "BA",
+		"Glicose": 195
+	},
+	{
+		"Nome": "Fernanda",
+		"Idade": 41,
+		"Estado": "MG",
+		"Glicose": 74
+	},
+	{
+		"Nome": "Vanessa",
+		"Idade": 54,
+		"Estado": "RS",
+		"Glicose": 98
+	},
+	{
+		"Nome": "Isabela",
+		"Idade": 30,
+		"Estado": "BA",
+		"Glicose": 162
+	},
+	{
+		"Nome": "Vanessa",
+		"Idade": 63,
+		"Estado": "SC",
+		"Glicose": 148
+	},
+	{
+		"Nome": "Gustavo",
+		"Idade": 22,
+		"Estado": "SC",
+		"Glicose": 131
+	},
+	{
+		"Nome": "Pedro",
+		"Idade": 20,
+		"Estado": "PR",
+		"Glicose": 84
+	},
+	{
+		"Nome": "Marcos",
+		"Idade": 60,
+		"Estado": "RS",
+		"Glicose": 131
+	},
+	{
+		"Nome": "Clara",
+		"Idade": 32,
+		"Estado": "MG",
+		"Glicose": 215
+	},
+	{
+		"Nome": "Larissa",
+		"Idade": 67,
+		"Estado": "PE",
+		"Glicose": 90
+	},
+	{
+		"Nome": "Bruna",
+		"Idade": 36,
+		"Estado": "RJ",
+		"Glicose": 91
+	},
+	{
+		"Nome": "Luís",
+		"Idade": 23,
+		"Estado": "SP",
+		"Glicose": 194
+	},
+	{
+		"Nome": "Rodrigo",
+		"Idade": 72,
+		"Estado": "RJ",
+		"Glicose": 87
+	},
+	{
+		"Nome": "Ana",
+		"Idade": 32,
+		"Estado": "MG",
+		"Glicose": 206
+	},
+	{
+		"Nome": "Carolina",
+		"Idade": 73,
+		"Estado": "MG",
+		"Glicose": 102
+	},
+	{
+		"Nome": "Luís",
+		"Idade": 24,
+		"Estado": "SC",
+		"Glicose": 102
+	},
+	{
+		"Nome": "Ricardo",
+		"Idade": 42,
+		"Estado": "RJ",
+		"Glicose": 238
+	},
+	{
+		"Nome": "Vanessa",
+		"Idade": 35,
+		"Estado": "SC",
+		"Glicose": 191
+	},
+	{
+		"Nome": "Pedro",
+		"Idade": 47,
+		"Estado": "SC",
+		"Glicose": 210
+	},
+	{
+		"Nome": "Gabriela",
+		"Idade": 58,
+		"Estado": "PE",
+		"Glicose": 112
+	},
+	{
+		"Nome": "Bruna",
+		"Idade": 71,
+		"Estado": "BA",
+		"Glicose": 137
+	},
+	{
+		"Nome": "Paula",
+		"Idade": 41,
+		"Estado": "SP",
+		"Glicose": 205
+	},
+	{
+		"Nome": "Fernanda",
+		"Idade": 28,
+		"Estado": "RJ",
+		"Glicose": 225
+	},
+	{
+		"Nome": "Carolina",
+		"Idade": 41,
+		"Estado": "BA",
+		"Glicose": 178
+	},
+	{
+		"Nome": "Gabriela",
+		"Idade": 40,
+		"Estado": "PR",
+		"Glicose": 124
+	}
+]
