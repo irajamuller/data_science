@@ -1,0 +1,101 @@
+id,nome,idade,data_nascimento,estado,salario_bruto,cargo,ultima_avaliacao,tempo_empresa_anos
+1,Paul Blackwell,56,1954-11-18,OKLAHOMA,5161.2,Trading standards officer,2024-01-05,16.2
+2,Dave Shaw,69,1944-08-23,alaska,9413.27,Osteopath,2024-11-15,13.7
+3,Jennifer Padilla,46,1974-09-28,idaho,,"Administrator, arts",2024-03-04,16.8
+4,John Clayton,32,2002-05-18,VIRGINIA,4612.33,"Programme researcher, broadcasting/film/video",2024-02-03,18.0
+5,Kenneth Smith,60,1975-04-09,ohio,6563.55,Wellsite geologist,2024-01-23,2.9
+6,Christopher Hayes,25,1951-03-31,pennsylvania,6166.67,Nature conservation officer,2024-01-27,11.4
+7,Tiffany Diaz,78,2004-02-16,MISSISSIPPI,9689.38,"Geneticist, molecular",2024-04-09,7.6
+8,John Leblanc,38,1952-08-03,michigan,8756.27,Chiropractor,2024-03-21,24.2
+9,Dana Marshall,56,1981-11-07,utah,7978.56,Media planner,2024-05-21,14.4
+10,Phillip Diaz,75,1961-06-25,SOUTH DAKOTA,6317.54,Quarry manager,2024-12-11,29.5
+11,Alexander Bauer,36,2001-07-01,wisconsin,6694.01,Solicitor,2024-04-09,12.3
+12,Samantha Wilson,40,1979-04-19,california,9722.04,It sales professional,2024-02-22,24.6
+13,Kathleen Miller,28,1944-06-07,GEORGIA,6856.27,Multimedia specialist,2024-06-01,24.1
+14,Trevor Miller,28,1948-12-03,virginia,4207.99,"Designer, interior/spatial",2024-06-06,4.9
+15,Austin Nelson,41,1981-06-18,arizona,4370.19,Pension scheme manager,2024-11-09,15.5
+16,Tammy Salazar,70,1988-12-13,MINNESOTA,3322.14,"Geneticist, molecular",2024-09-27,21.0
+17,Dr. Kathleen Palmer,53,2006-07-05,new mexico,2125.09,"Administrator, education",2024-08-09,25.8
+18,Steven Moore,57,1945-08-20,florida,5387.21,Insurance underwriter,2024-12-17,10.1
+19,Jerry Hall,41,1967-08-08,ARKANSAS,5159.05,Trade union research officer,2024-06-07,7.0
+20,Leah Soto,20,1951-02-02,indiana,4347.91,Research scientist (physical sciences),2024-10-08,21.5
+21,Jennifer King,39,1962-06-30,nebraska,2112.64,Psychiatrist,2024-05-02,24.4
+22,Amy Smith,70,1984-11-18,MONTANA,3590.74,It trainer,2024-07-12,10.8
+23,Erik Mason,19,1969-03-26,kentucky,7690.74,Tax inspector,2024-11-30,3.3
+24,Alicia Doyle,41,1947-10-06,kansas,8321.4,Legal executive,2024-09-20,28.2
+25,Nicholas Morris,61,1979-02-02,IDAHO,6847.68,Secondary school teacher,2024-02-01,12.2
+26,Jenny Green,47,1948-11-09,colorado,9410.41,"Psychologist, occupational",2024-09-08,15.8
+27,Tiffany Proctor,55,1986-03-28,connecticut,7208.62,Secondary school teacher,2024-01-09,25.2
+28,Jamie Moore,19,1949-08-27,ALABAMA,9319.68,"Psychologist, educational",2024-01-16,20.4
+29,Cynthia Edwards,77,1969-01-31,west virginia,8800.31,Advertising account planner,2024-01-30,22.2
+30,Jonathan Olson,38,1982-11-09,minnesota,5595.61,Agricultural engineer,2024-03-13,6.7
+31,Terry Peters,50,1961-04-25,COLORADO,,Chartered loss adjuster,2024-11-27,16.5
+32,Jonathan Buckley,29,2004-07-28,michigan,4966.55,"Pilot, airline",2024-05-25,21.0
+33,Michelle Thomas,75,1969-08-03,pennsylvania,7350.73,Optometrist,2024-01-18,7.2
+34,Hunter Stewart,39,2002-01-27,OHIO,7327.38,Investment analyst,2024-08-21,5.7
+35,George Cole,78,1986-04-11,louisiana,,Records manager,2024-07-23,29.5
+36,Jeffrey Durham,61,1988-06-17,montana,4197.77,Accommodation manager,2024-10-08,15.7
+37,Linda Alvarez,42,1993-12-26,MINNESOTA,6489.95,Interior and spatial designer,2024-06-11,8.2
+38,John Anderson,66,1971-10-22,north carolina,,"Therapist, occupational",2024-10-23,29.9
+39,Robert Webb,44,1974-01-24,alabama,9773.7,Management consultant,2024-12-09,29.0
+40,Jose Larson,76,1947-07-22,MARYLAND,8791.31,"Runner, broadcasting/film/video",2024-10-12,17.0
+41,Shaun Johnson,59,1981-12-26,wyoming,7773.84,"Designer, jewellery",2024-10-19,26.5
+42,Claudia Flores,45,1983-08-26,indiana,3887.88,Jewellery designer,2024-03-14,6.1
+43,Ian Keith,77,1976-02-12,MAINE,4048.55,Dentist,2024-11-06,8.7
+44,Shelley Scott,33,1954-12-30,michigan,2323.47,Science writer,2024-06-17,21.2
+45,Savannah Vargas,32,1997-12-22,florida,7685.3,Special educational needs teacher,2024-09-17,25.5
+46,Jason Kane,79,1955-06-01,NORTH DAKOTA,2887.13,Air cabin crew,2024-04-03,25.8
+47,Kari Rios DVM,79,1991-03-06,montana,5514.69,Therapeutic radiographer,2024-06-04,12.4
+48,Joshua Middleton,64,1987-11-11,kentucky,3613.75,Pathologist,2024-09-20,26.7
+49,William Griffith,79,1951-01-07,NEVADA,9166.11,Gaffer,2024-08-20,25.6
+50,Darius Mcintyre,68,1985-06-29,louisiana,5802.96,Secondary school teacher,2024-10-24,28.1
+51,Connie Anthony,61,1961-08-24,oklahoma,6506.2,Police officer,2024-01-07,23.7
+52,Johnny Scott,72,1968-10-08,PENNSYLVANIA,7564.13,"Psychologist, sport and exercise",2024-10-10,20.2
+53,Michele Weiss,69,1997-02-27,florida,3114.65,Diplomatic services operational officer,2024-01-15,17.6
+54,Zachary Pace,74,1994-11-05,nevada,6835.34,"Engineer, control and instrumentation",2024-05-12,11.5
+55,Chad Freeman,20,2000-04-15,MONTANA,6318.73,Agricultural consultant,2024-06-11,28.2
+56,Jimmy Price,54,1999-02-28,hawaii,3624.49,Logistics and distribution manager,2024-01-13,29.2
+57,Fernando Gordon,68,1991-04-12,rhode island,9542.83,Chief of staff,2024-05-18,8.9
+58,Sarah Meyers,24,1947-01-20,OHIO,6790.92,"Engineer, land",2024-07-05,9.5
+59,Mr. Jason Kent,38,1982-12-17,colorado,7558.28,Horticultural therapist,2024-04-18,14.8
+60,Shannon Montgomery,26,1957-12-29,indiana,9043.74,Geochemist,2024-02-18,13.7
+61,Colleen Ford,56,2004-04-02,NEW MEXICO,6994.83,"Physicist, medical",2024-08-12,29.8
+62,Bonnie George,35,1973-07-30,wyoming,4365.07,Primary school teacher,2024-06-30,5.7
+63,Terry Kim,21,1959-11-15,texas,2843.95,Prison officer,2024-05-16,1.0
+64,Ricky Smith,42,1951-03-07,LOUISIANA,5652.28,Data scientist,2024-12-07,15.1
+65,Laura Howell,77,1974-12-19,south dakota,3747.52,Theatre director,2024-02-29,5.8
+66,Wesley Mcgee,31,1987-05-16,new hampshire,5332.08,Environmental education officer,2024-04-30,11.3
+67,Andrew Gilmore,67,1991-11-14,IOWA,9066.24,Clinical embryologist,2024-02-25,22.5
+68,Holly Ward,75,1967-05-16,florida,,"Journalist, newspaper",2024-03-11,21.8
+69,Barbara Diaz,26,1947-03-18,missouri,2976.7,Town planner,2024-04-09,9.6
+70,Natalie Mccarty,43,1985-10-08,NEW HAMPSHIRE,4850.38,Art therapist,2024-11-19,16.5
+71,Joe Taylor,70,1966-10-03,maine,9254.63,Logistics and distribution manager,2024-07-27,15.5
+72,Sarah Ellis,19,1972-08-20,idaho,4177.06,Systems developer,2024-04-01,19.3
+73,Carlos Edwards,37,1960-02-26,MONTANA,7181.52,Acupuncturist,2024-03-30,7.9
+74,Nicole Thomas,45,1997-02-01,mississippi,2004.16,Film/video editor,2024-02-20,17.9
+75,Ronnie Chandler,64,1962-06-16,hawaii,4820.55,Probation officer,2024-09-14,29.4
+76,Andrew Taylor,77,1964-11-23,IOWA,4438.25,"Conservator, museum/gallery",2024-02-24,14.9
+77,Joseph Wells,24,1955-05-25,new jersey,3317.25,Logistics and distribution manager,2024-10-08,27.2
+78,Robert Delgado,61,1991-05-09,oregon,6272.72,Computer games developer,2024-07-20,13.3
+79,Larry Ayala,78,1993-04-04,ARIZONA,5878.64,"Production assistant, television",2024-11-06,10.8
+80,Katelyn Watson,25,2002-01-19,south dakota,7539.49,Higher education careers adviser,2024-05-26,19.5
+81,Maria Simmons,64,1984-07-25,hawaii,4155.3,Translator,2024-02-07,20.2
+82,Michele Scott,52,2005-12-18,NEW JERSEY,3953.0,Animal technologist,2024-07-16,26.0
+83,Stephanie Harris,31,1998-04-25,maryland,3346.33,Colour technologist,2024-06-12,7.3
+84,Rodney Joyce,34,1993-08-14,arizona,3750.11,Information officer,2024-01-26,15.2
+85,Sherry Garcia,53,1957-07-05,MISSOURI,6464.82,Communications engineer,2024-04-04,17.4
+86,Nina Watson,67,1969-05-01,new york,5230.69,Health and safety inspector,2024-10-28,23.2
+87,Kenneth Cruz,57,1960-03-01,montana,2519.14,Scientific laboratory technician,2024-05-29,1.8
+88,Michelle Robinson,21,1959-03-22,WEST VIRGINIA,4031.32,Trading standards officer,2024-07-15,29.8
+89,Jill Baker,19,1995-12-03,arkansas,3975.01,Forensic scientist,2024-11-27,14.4
+90,Jack Olson,79,1948-05-03,south dakota,7570.43,Retail merchandiser,2024-01-14,8.7
+91,David Jones,23,1971-09-20,FLORIDA,7698.16,Further education lecturer,2024-10-21,26.6
+92,Chad Carey,71,1988-12-08,virginia,3184.7,Trade union research officer,2024-08-27,22.6
+93,Jasmine Kelly,59,1971-04-28,oregon,9981.92,Charity officer,2024-04-07,28.6
+94,Brent Haney,21,1970-11-23,MISSISSIPPI,4134.25,Animator,2024-04-07,10.3
+95,Jeffery Davis,71,2004-03-09,new hampshire,9812.92,"Copywriter, advertising",2024-10-18,16.8
+96,Kimberly Fleming,46,1987-10-07,kentucky,5288.3,"Presenter, broadcasting",2024-06-15,17.4
+97,Mario Cole,35,2006-07-02,SOUTH DAKOTA,2264.41,"Therapist, art",2024-06-11,29.4
+98,Dakota Brooks,43,1973-02-19,wisconsin,4760.57,Armed forces logistics/support/administrative officer,2024-04-13,2.7
+99,James Mcdonald,61,1980-02-20,maine,7074.81,"Embryologist, clinical",2024-01-17,9.5
+100,William Sexton,51,1969-10-30,UTAH,7445.64,"Engineer, automotive",2024-11-26,6.1
